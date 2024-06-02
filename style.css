@@ -1,3 +1,205 @@
-<?php
- echo "mina"
-  ?>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+
+  <meta charset="UTF-8">
+
+<link rel="stylesheet" id="arabic-webfonts-css" href="//www.fontstatic.com/f=bein," media="all">
+
+  <link rel="stylesheet" id="aiodl-sober-style-css" href="https://downloade.site/wp-content/themes/aiodl-sober/style.css?ver=1.0.0" media="all"> 
+
+
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  
+  <link rel="profile" href="https://gmpg.org/xfn/11">
+  
+
+  <meta name="robots" content="max-image-preview:large">
+  
+  
+
+  <link rel="dns-prefetch" href="//www.fontstatic.com">
+
+  <!-- /End arabic-webfonts styles -->
+  
+  
+  
+  
+  
+  
+  <link rel="icon" href="https://downloade.site/wp-content/uploads/2024/04/cropped-features1-32x32.png" sizes="32x32">
+  
+  
+  
+  
+  
+  
+
+  <meta name="msapplication-TileImage" content="https://downloade.site/wp-content/uploads/2024/04/cropped-features1-270x270.png">
+
+</head>
+
+<body>
+
+
+
+
+
+
+  <div id="header">
+
+  </div>
+
+
+
+
+  <h1 translate="no" class="titlepage-title"> <span class="ontxt">Download</span> Video </h1>
+
+
+
+
+  <div class="alert alert-warning" role="alert" id="alert" style="display: none"></div>
+  
+  <div class="form-group" id="download-form">
+    <div class="input-group">
+
+
+
+
+
+
+
+ <button translate="no"  onclick="pasteText()" id="pasteio"  >
+   
+   
+   
+        <?xml version="1.0" encoding="iso-8859-1"?>
+        <!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+        <svg fill="#000000" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 502 502" xml:space="preserve">
+          <g>
+            <g>
+              <g>
+                <path d="M467.35,190.176l-70.468-70.468c-1.876-1.875-4.419-2.929-7.071-2.929h-23.089V49c0-5.523-4.478-10-10-10h-115v-2.41
+				c0-20.176-16.414-36.59-36.59-36.59h-11.819c-20.176,0-36.591,16.415-36.591,36.59V39h-115c-5.522,0-10,4.477-10,10v386
+				c0,5.523,4.478,10,10,10h146.386v47c0,5.523,4.478,10,10,10h262.171c5.522,0,10-4.477,10-10V197.247
+				C470.279,194.595,469.225,192.051,467.35,190.176z M399.811,150.921l36.326,36.326h-36.326V150.921z M144.721,59h47
+				c5.522,0,10-4.477,10-10s-4.478-10-10-10h-15v-2.41c0-9.148,7.442-16.59,16.591-16.59h11.819c9.147,0,16.59,7.442,16.59,16.59V49
+				c0,5.523,4.478,10,10,10h22v20h-109V59z M198.107,116.779c-5.522,0-10,4.477-10,10V425H51.721V59h73v30c0,5.523,4.478,10,10,10
+				h129c5.522,0,10-4.477,10-10V59h73v57.779H198.107z M450.278,482H208.107V136.779H379.81v60.468c0,5.523,4.478,10,10,10h60.468
+				V482z" />
+                <path d="M243.949,253.468h125.402c5.522,0,10-4.477,10-10c0-5.523-4.478-10-10-10H243.949c-5.522,0-10,4.477-10,10
+				C233.949,248.991,238.427,253.468,243.949,253.468z" />
+                <path d="M414.437,283.478H243.949c-5.522,0-10,4.477-10,10s4.478,10,10,10h170.487c5.522,0,10-4.477,10-10
+				S419.959,283.478,414.437,283.478z" />
+                <path d="M414.437,333.487H243.949c-5.522,0-10,4.477-10,10s4.478,10,10,10h170.487c5.522,0,10-4.477,10-10
+				S419.959,333.487,414.437,333.487z" />
+                <path d="M414.437,383.497H243.949c-5.522,0-10,4.477-10,10s4.478,10,10,10h170.487c5.522,0,10-4.477,10-10
+				S419.959,383.497,414.437,383.497z" />
+                <path d="M397.767,253.468h16.67c5.522,0,10-4.477,10-10c0-5.523-4.478-10-10-10h-16.67c-5.522,0-10,4.477-10,10
+				C387.767,248.991,392.245,253.468,397.767,253.468z" />
+              </g>
+            </g>
+          </g>
+        </svg>
+
+
+
+
+      </button>
+
+
+
+
+      <input  name="url" type="url" id="url" class="form-control" placeholder="الصق رابط الفيديو">
+
+
+
+
+
+
+    </div>
+
+
+
+
+    <input type="hidden" name="token" id="token" value="abeb6c22d7ac8a7fe3c9e35007aa5f15ce271bada4146957465143aee6d19c42">
+
+
+
+
+
+
+    <div style="display: flex; justify-content: center; ">
+
+
+
+
+      <button type="button" class="downloadbtn7" data-toggle="popover" data-placement="bottom" data-trigger="manual" id="downloadBtn" data-original-title=""><span class="ontxt5">Download</span> Video</button>
+
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+        </header>
+        <div class="text-center" id="ad-area-2"></div>
+        <div class="py-0 overflow-hidden" id="result" style="display: none"></div>
+        <div class="container text-center mt-4">
+          <div class="col-md-12 ml-auto mr-auto mt-0">
+            <h2 class="title display-4"></h2>
+            <div class="nav-wrapper">
+              <ul class="nav nav-pills nav-fill flex-column flex-md-row" id="tabs-icons-text" role="tablist">
+
+
+
+
+
+
+
+
+
+
+
+  <script id="aiodl-sober-script-js-extra">
+    var WPURLS = { "siteurl": "https:\/\/downloade.site" };
+    var LANG_STRINGS = { "<header>share<header>": "<header>Share<header>", "<header>clear<header>": "Clear", "<header>enterValidUrl<header>": "<header >Please enter a valid URL.<header>" };
+    
+  
+
+  </script>
+
+
+
+
+
+
+ <link rel="stylesheet" href="style.css">
+
+ <script src="script.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+</body>
+
+</html>
