@@ -3,6 +3,7 @@ body{
   font-family: "Ubuntu", sans-serif;
   font-weight: 300;
   font-style: normal;
+
 }
 
 .header{
@@ -11,6 +12,8 @@ body{
   width: 100%;
   border-radius: 0px 0px 15px 15px;
   box-shadow: 0px 0px 5px #5F5C5C;
+  position: fixed;
+  z-index: 1;
 }
 .textheader{
   text-align: right;
@@ -28,10 +31,6 @@ body{
   background-size: cover;
     -webkit-background-clip: text;
     background-position:  0px 40px ;
-}
-.textheader::selection{
-  color: #1679AB;
-  background: #102C57;
 }
 .icon{
   height: 60px;
@@ -53,21 +52,29 @@ right: 26px;
 color: #98A1A5C2;
 }
 .drawpictures{
-  background: red;
-  width: 95%;
+  background: #102C57;
+  width: 92%;
   height: 250px;
   margin: auto;
   position: relative;
-  top: 20px;
+  top: 100px;
   border-radius: 15px;
   box-shadow: 0px 0px 5px #B9B9B9F0;
+  border: solid 2px #102C57;
+}
+.drawpictures > img{
+  width: 100%;
+  height: 250px;
+  margin: auto;
+  border-radius: 15px;
+  background-size: cover;
 }
 .infromation{
   background: #102C57;
   width: 95%;
   height: 60px;
   position: relative;
-  top: 30px;
+  top: 115px;
   border-radius: 8px;
   margin:auto;
   display: flex;
@@ -78,7 +85,7 @@ color: #98A1A5C2;
   margin-top: 7.5px;
   margin-right: 9px;
   fill: #D2D2D2F0;
-  z-index: 1;
+  
 }
 #likesvg:hover{
 fill: #E1B227;
@@ -92,7 +99,7 @@ width: 50px;
   fill: #D2D2D2F0;
   height: 60px;
 background: transparent;
-z-index: 1;
+
 
 }
 #unlike3{
@@ -106,42 +113,48 @@ z-index: 1;
   color: white;
   position: relative;
 margin-left: 29px;
-  top: -27px;
+  top: 58px;
   justify-content: center;
 }
 .like{
   width: 55px;
   background: transparent;
-  z-index: 1;
-}
-
-
-.drawpictures2{
-  background: red;
-  width: 95%;
-  height: 250px;
   
-  margin: auto;
-  position: relative;
-  top: 1px;
-  border-radius: 15px;
-  box-shadow: 0px 0px 5px #B9B9B9F0;
 }
-.infromation2{
-  background: #102C57;
-  width: 95%;
-  height: 60px;
-  position: relative;
-  top: 15px;
-  border-radius: 8px;
-  margin:auto;
+
+.contact{
+  width: 100%;
+  height: 80px;
+  background:  #102C57;
+  position: relative;;
+  bottom: 0px;
+  z-index: 1;
+  top: 90px;
+  border-radius: 10px 10px 0px 0px;
   display: flex;
-  justify-content: right;
+  justify-content: space-around;
 }
-.timepost2{
-  color: white;
-  position: relative;
-margin-left: 29px;
-  top: -44px;
-  justify-content: center;
+
+
+
+.faceicon{
+ position: relative;
+ top: 15px;
+ height: 55px;
+  width: 55px;
+  filter: drop-shadow(0 0.2rem 0.25rem rgba(16, 32, 252, 0.45));
+}
+.insta{
+position: relative;
+top: 15px;
+height: 55px;
+  width: 55px;
+  filter: drop-shadow(0 0.2rem 0.25rem rgba(196, 27, 28, 0.45));
+}
+#whatsapp{
+position: relative;
+height: 50px;
+top: 15px;
+  width: 55px;
+  filter: drop-shadow(0 0.2rem 0.25rem rgba(27, 196, 54, 0.45));
 }
